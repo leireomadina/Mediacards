@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "./static/css/main.19c3c1be.chunk.css",
+    "main.js": "./static/js/main.6d0b8f04.chunk.js",
+    "main.js.map": "./static/js/main.6d0b8f04.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.cb979ab9.js",
+    "runtime-main.js.map": "./static/js/runtime-main.cb979ab9.js.map",
+    "static/js/2.b10fab23.chunk.js": "./static/js/2.b10fab23.chunk.js",
+    "static/js/2.b10fab23.chunk.js.map": "./static/js/2.b10fab23.chunk.js.map",
+    "static/js/3.80c9de7d.chunk.js": "./static/js/3.80c9de7d.chunk.js",
+    "static/js/3.80c9de7d.chunk.js.map": "./static/js/3.80c9de7d.chunk.js.map",
+    "index.html": "./index.html",
+    "static/css/main.19c3c1be.chunk.css.map": "./static/css/main.19c3c1be.chunk.css.map",
+    "static/js/2.b10fab23.chunk.js.LICENSE.txt": "./static/js/2.b10fab23.chunk.js.LICENSE.txt",
+    "static/media/calcifer.9d8d12a7.png": "./static/media/calcifer.9d8d12a7.png",
+    "static/media/howl.b063518a.png": "./static/media/howl.b063518a.png",
+    "static/media/sophie-hatter.62453278.jpg": "./static/media/sophie-hatter.62453278.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cb979ab9.js",
+    "static/js/2.b10fab23.chunk.js",
+    "static/css/main.19c3c1be.chunk.css",
+    "static/js/main.6d0b8f04.chunk.js"
+  ]
+}
